@@ -12,16 +12,11 @@
 
 body {
     background-color: var(--cor-de-fundo);
-    color: var(--branco); font-family: ‘Chakra Petch’, sans-serif;
-    background-color: var(--botao-inativo);
-    color: var(--branco); display: flex;
-    justify-content: center;
-    padding: 1em;
-    font-size: 18px;
-    align-items: center;
-    width: 100%;
-    }}
-.conteudo-principal { display: flex;
+    color: var(--branco); 
+    font-family: ‘Chakra Petch’, sans-serif;
+}
+.conteudo-principal { 
+    display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
