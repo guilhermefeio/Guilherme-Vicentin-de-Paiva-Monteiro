@@ -36,3 +36,8 @@ function atualizaCronometro(){for(let i=0,i<contadores.leght;i++){>
  
  return dias + " dias " + horas + " horas " + minutos + " minutos " + segundos + " segundos";
 }
+function atualizaContador(){
+    for(let i = 0; i<contadores.length; i++);{
+        contadores[i].
+    }
+}
